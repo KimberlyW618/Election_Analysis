@@ -95,10 +95,10 @@ print(winning_candidate_summary)
 
 
 # Close the file.
-#election_data.close()
+election_data.close()
 
 
-#Write down the names of all the candidates.
-#Add a vote count for each candidate.
-#Get the total votes for each candidate.
-#Get the total votes cast for the election
+#Write down the names of all the candidates. -done
+#Add a vote count for each candidate. - done
+#Get the total votes for each candidate. -done
+#Get the total votes cast for the election -done 
