@@ -1,5 +1,18 @@
-Counties in the Election
----------------
+Counties in the Election:
+-------------
 Arapahoe
 Denver
 Jefferson
+
+Candidates in the Election:
+---------
+Diana DeGette
+Charles Casper Stockham
+Raymon Anthony Doane
+
+Winning Candidate Summary:
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------

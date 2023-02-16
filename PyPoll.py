@@ -9,9 +9,7 @@ import os
 file_to_load = os.path.join("/Users/kimberlywoods/School-UCSD-DS-Bootcamp/Election_Analysis/Resources/election_results.csv")
 
 # Assign a variable to save the file to a path.
-file_to_save = os.path.join("/Users/kimberlywoods/School-UCSD-DS-Bootcamp/Election_Analysis/analysis")
-
-# ANALYSIS
+file_to_save = os.path.join("analysis", "election_analysis.txt")
 
 # Initialize a total vote counter.
 total_votes = 0
@@ -92,7 +90,12 @@ winning_candidate_summary = (
     f"-------------------------\n")
 print(winning_candidate_summary)
 
-
+with open(file_to_save, "w") as txt_file:
+    txt_file.write("Counties in the Election:\n-------------\nArapahoe\nDenver\nJefferson\n")
+    txt_file.write("\nCandidates in the Election:\n---------\n")
+    txt_file.write("Diana DeGette\nCharles Casper Stockham\nRaymon Anthony Doane\n")
+    txt_file.write("\nWinning Candidate Summary:\n")
+    txt_file.write(winning_candidate_summary)
 
 # Close the file.
 election_data.close()
