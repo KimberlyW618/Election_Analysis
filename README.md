@@ -16,7 +16,6 @@ This is an audit on the results of a congressional election in three Colorado co
 
 
 ## Summary
--
 The analysis of the election show that:
 
 -	There were votes cast in the election
@@ -32,8 +31,8 @@ The analysis of the election show that:
       - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 
-##Challenge Overview
+## Challenge Overview
 
 
-##Challenge Summary
+## Challenge Summary
 
