@@ -15,8 +15,8 @@ This is an audit on the results of a congressional election in three Colorado co
 
 
 ###   Resources 
--     Data Source: election_results.csv
--     Software: Python 3.9.6, Visual Studio Code, 1.75.1
+- Data Source: election_results.csv [election_results.csv](Resources/election_results.csv)
+- Software: Python 3.9.6, Visual Studio Code, 1.75.1
 
 
 ## Election-Audit Results: 
