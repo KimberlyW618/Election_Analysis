@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election_Analysis_1
 
 ## Project Overview
 This is an audit on the results of a congressional election in three Colorado counties. The analysis will include the following:
@@ -32,7 +32,9 @@ The analysis of the election show that:
 
 
 ## Challenge Overview
-
+This challenge worked with for loops and if statements to comb the data and add up the votes in many different ways including candidate vote count, county vote count, and total vote count. 
 
 ## Challenge Summary
+In this analysis we were able to determine that Diana DeGette was the winner, and that Denver County had the largest turnout.
+
 
