@@ -23,31 +23,31 @@ This is an audit on the results of a congressional election in three Colorado co
 
 - Challenge Code
 -- [PyPoll_challenge_code](PyPoll_challenge_code.py)
-- Election Analysis
+- Election Analysis Results
 -- [analysis/election_analysis](analysis/election_analysis.txt)
 
 The analysis of the election show that:
 
 - There were 369,711 votes cast in the election
 - The counties that participated were:
-      - Jefferson County
-      - Denver County
-      - Arapahoe County
+-- Jefferson County
+-- Denver County
+-- Arapahoe County
 - The county results were:
-      - Jefferson county received 10.5% of the vote and 38,855 number of votes. 
-      - Denver county received 82.8% of the vote and 306,055 number of votes.
-      - Arapahoe county received 6.7% of the vote and 24,801 number of votes.
+-- Jefferson county received 10.5% of the vote and 38,855 number of votes. 
+-- Denver county received 82.8% of the vote and 306,055 number of votes.
+-- Arapahoe county received 6.7% of the vote and 24,801 number of votes.
 - Denver had the largest voter turnout. 
 - The candidates were:
-      - Charles Casper Stockham 
-      - Diana DeGette
-      - Raymon Anthony Doane
+-- Charles Casper Stockham 
+-- Diana DeGette
+-- Raymon Anthony Doane
 - The candidate results were:
-      - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes. 
-      - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-      - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+-- Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes. 
+-- Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+-- Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
-      - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+-- Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election-Audit Summary
 
@@ -58,7 +58,7 @@ Below you will see a snapshot of the code that was written to obtain these resul
 This script can be used to replicate and analysis on another election quite easily. Modifications that would need to be made include where the data is pulling from and the text file you are then writing the results to. Another area that might need to be modified is on line 48 and 51 where we are specifying where in the dataset to pull the county names and the candidate names. 
 
 
-## Code
+## Code Image
 [code](code.png)
 ![code](code.png)
 
