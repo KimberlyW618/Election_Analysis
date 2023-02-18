@@ -1,4 +1,4 @@
-# Election_Analysis_1
+# Election_Analysis_Module 
 
 ## Project Overview
 This is an audit on the results of a congressional election in three Colorado counties. The analysis will include the following:
