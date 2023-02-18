@@ -58,7 +58,7 @@ In this analysis we were able to determine that Diana DeGette was the winner, an
 
 Below you will see a snapshot of the code that was written to obtain these results from the csv file that was provided with the election results.  You will notice in the code that on lines 41-64 a ‘for loop’ with an ‘if’ statement was written to find the number of votes cast for each candidate. That “if” statement was then augmented to find the largest county turnout on lines 68-77. Then the percentage of votes was calculated. The winner of the election and the county with the best turnout was then determined and printed to our terminal and our results text file. 
 
-This script can be used to replicate and analysis on another election quite easily. Modifications that would need to be made include where the data is pulling from and the text file you are then writing the results to. Another area that might need to be modified is on line 48 and 51 where we are specifying where in the dataset to pull the county names and the candidate names. 
+This script can be used to replicate an analysis upon another election quite easily. Modifications that would need to be made include where the data is pulling from and the text file you are then writing the results to. Another area that might need to be modified is on line 48 and 51 where we are specifying where in the dataset to pull the county names and the candidate names, this depends on how the new dataset is arranged. 
 
 
 ## Code Image
