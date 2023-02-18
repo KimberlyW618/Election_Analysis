@@ -1,6 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election-Audit
+
 This is an audit on the results of a congressional election in three Colorado counties. The analysis will include the following:
 
 - Total number of votes cast.
@@ -13,7 +14,6 @@ This is an audit on the results of a congressional election in three Colorado co
 - The percentage of votes for each candidate.
 - The winner on the election based on popular vote.
 
-
 ###   Resources 
 - Data Source: [election_results.csv](Resources/election_results.csv)
 - Software: Python 3.9.6, Visual Studio Code, 1.75.1
@@ -21,12 +21,14 @@ This is an audit on the results of a congressional election in three Colorado co
 
 ## Election-Audit Results: 
 
-- Challenge Code
+### Files
+- Election Analysis Code
 -- [PyPoll_challenge_code](PyPoll_challenge_code.py)
 - Election Analysis Results
 -- [analysis/election_analysis](analysis/election_analysis.txt)
 
-The analysis of the election show that:
+### Data
+The analysis of the election shows that:
 
 - There were 369,711 votes cast in the election
 - The counties that participated were:
@@ -37,7 +39,7 @@ The analysis of the election show that:
   - Jefferson county received 10.5% of the vote and 38,855 number of votes. 
   - Denver county received 82.8% of the vote and 306,055 number of votes.
   - Arapahoe county received 6.7% of the vote and 24,801 number of votes.
-- Denver had the largest voter turnout. 
+- Denver County had the largest voter turnout. 
 - The candidates were:
   - Charles Casper Stockham 
   - Diana DeGette
@@ -48,6 +50,7 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
   - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+
 
 ## Election-Audit Summary
 
