@@ -7,7 +7,7 @@ This is an audit on the results of a congressional election in three Colorado co
 - A complete list of all the counties that voted. 
 - The number of votes cast in each county. 
 - The percentage of votes cast in each county.
-- The county had the bast turnout. 
+- The county that had the bast turnout. 
 - A complete list of all the candidates. 
 - The number of votes for each candidate. 
 - The percentage of votes for each candidate.
