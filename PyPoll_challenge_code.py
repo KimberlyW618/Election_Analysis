@@ -100,7 +100,7 @@ with open(file_to_save, "w") as txt_file:
         # 6c: Calculate the percentage of votes for the county.
         C_vote_percentage = float(Cvotes) / float(total_votes) * 100
         county_results = (
-            f"{county_name}: {C_vote_percentage:1f}% ({Cvotes:,})\n")
+            f"{county_name}: {C_vote_percentage:.1f}% ({Cvotes:,})\n")
 
          # 6d: Print the county results to the terminal.
         print(county_results)
